@@ -3,7 +3,7 @@ def using_while
 
   #your code here
   while levitation_force < 10
-    puts "Harry Potter wins again!"
+    puts "Wingardum Leviosa"
 	  levitation_force +=1
   end
 end
